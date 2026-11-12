@@ -1,0 +1,15 @@
+[project]
+name = "pythonproject12"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Andrey Bozin",email = "bozin67@mail.ru"}
+]
+requires-python = "^3.12"
+dependencies = [
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
